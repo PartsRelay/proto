@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package partsrelay.publicapi.v1;
+package partsrelay.public_api.v1;
 
 // The articles of the seller, read from its management system at every call.
 //
